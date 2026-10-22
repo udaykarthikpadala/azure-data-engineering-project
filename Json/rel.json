@@ -1,0 +1,63 @@
+[ 
+    {
+        "rel_url" : "udaykarthikpadala/azuredataengineering/refs/heads/main/AdventureWorks_Calendar.csv",
+        "folder_rel" : "Calender",
+        "file_name" : "calender.csv"
+
+    },
+    {
+        "rel_url" : "udaykarthikpadala/azuredataengineering/refs/heads/main/AdventureWorks_Product_Categories.csv",
+        "folder_rel" : "Categories",
+        "file_name" : "categories.csv"
+
+    },
+    {
+        "rel_url" : "udaykarthikpadala/azuredataengineering/refs/heads/main/AdventureWorks_Customers.csv",
+        "folder_rel" : "Customers",
+        "file_name" : "Customers.csv"
+
+    },
+    {
+        "rel_url" : "udaykarthikpadala/azuredataengineering/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+        "folder_rel" : "Products_cat",
+        "file_name" : "Products_cat.csv"
+
+    },
+    {
+        "rel_url" : "udaykarthikpadala/azuredataengineering/refs/heads/main/AdventureWorks_Products.csv",
+        "folder_rel" : "Products",
+        "file_name" : "Products.csv"
+
+    },
+    {
+        "rel_url" : "udaykarthikpadala/azuredataengineering/refs/heads/main/AdventureWorks_Returns.csv",
+        "folder_rel" : "Returns",
+        "file_name" : "Returns.csv"
+
+    },
+    {
+        "rel_url" : "udaykarthikpadala/azuredataengineering/refs/heads/main/AdventureWorks_Sales_2015.csv",
+        "folder_rel" : "Sales_2015",
+        "file_name" : "Sales_2015.csv"
+
+    },
+    {
+        "rel_url" : "udaykarthikpadala/azuredataengineering/refs/heads/main/AdventureWorks_Sales_2016.csv",
+        "folder_rel" : "Sales_2016",
+        "file_name" : "Sales_2016.csv"
+
+    },
+    {
+        "rel_url" : "udaykarthikpadala/azuredataengineering/refs/heads/main/AdventureWorks_Sales_2017.csv",
+        "folder_rel" : "Sales_2017",
+        "file_name" : "Sales_2017.csv"
+
+    },
+    {
+        "rel_url" : "udaykarthikpadala/azuredataengineering/refs/heads/main/AdventureWorks_Territories.csv",
+        "folder_rel" : "Territories",
+        "file_name" : "Territories.csv"
+
+    }
+
+]
